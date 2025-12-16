@@ -1,4 +1,4 @@
-Python | SQL
+| Python | SQL |  
 SD Consultant with interest in backend development  
 Self-taught, project-oriented learner 
 
