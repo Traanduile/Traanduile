@@ -1,4 +1,6 @@
-## Hi there 👋
+Python | SQL | C#  
+SD Consultant with interest in backend development  
+Self-taught, project-oriented learner 
 
 <!--
 **Traanduile/Traanduile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
